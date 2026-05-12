@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723564674049",
+    "project_id": "pmfx-firework-inventory",
+    "storage_bucket": "pmfx-firework-inventory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723564674049:android:c60bbd2d490b7b5627d400",
+        "android_client_info": {
+          "package_name": "th.ac.bu.pm_app.pm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIEj0FLRWrt1arJq-Zi07VAf0f6TFDy4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
